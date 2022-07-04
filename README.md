@@ -6,3 +6,6 @@
 
 [toastlink]: https://github.com/ejisooo/TIL/blob/main/javascript/toast.md "Go toast"
 
+* ### [input event][inputeventlink]
+* 
+* [inputlink]: https://github.com/ejisooo/TIL/blob/main/javascript/input.md "Go toast"
