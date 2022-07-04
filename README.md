@@ -8,4 +8,4 @@
 
 * ### [input event][inputeventlink]
 
-[inputlink]: https://github.com/ejisooo/TIL/blob/main/javascript/input.md "Go toast"
+[inputlink]: https://github.com/ejisooo/TIL/blob/main/javascript/input_event.md "Go input event"
