@@ -15,3 +15,6 @@ int num = 123
 def num = 123
 num = "일이삼"
 ```
+
+type, interface의 차이점
+------------------------
