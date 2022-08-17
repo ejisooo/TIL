@@ -2,8 +2,8 @@ scroll header event
 ==============
 
 > headerMoving(scroll up, down) 일 때 className 정해주기  
-> 스크롤 할 때 y축 비교하고 up, down 주기
-> scroll 내릴 때 prev < next = "down" className 추가(header 숨김)
+> 스크롤 할 때 y축 비교하고 up, down 주기  
+> scroll 내릴 때 prev < next = "down" className 추가(header 숨김)  
 > scroll 올릴 때 prev > next = ""
 
 
