@@ -22,4 +22,4 @@
 # __etc__
 * ### [tsx,ts][tsx,tslink]
 
-[tsx,tslink]: https://github.com/ejisooo/TIL/blob/main/react/tsx,ts.md "Go tsx,ts"
+[tsx,tslink]: https://github.com/ejisooo/TIL/blob/main/etc/tsx,ts.md "Go tsx,ts"
