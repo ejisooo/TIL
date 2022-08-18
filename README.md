@@ -19,9 +19,9 @@
 
 [React.useStatelink]: https://github.com/ejisooo/TIL/blob/main/react/React.useState.md "Go React.useState"
 
-* ### [props][propslink]
+* ### [propTypes][propTypeslink]
 
-[propslink]: https://github.com/ejisooo/TIL/blob/main/react/props.md "Go React.useState"
+[propTypeslink]: https://github.com/ejisooo/TIL/blob/main/react/propTypes.md "Go propTypes"
 
 # __etc__
 * ### [tsx,ts][tsx,tslink]
