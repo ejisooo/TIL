@@ -19,6 +19,10 @@
 
 [React.useStatelink]: https://github.com/ejisooo/TIL/blob/main/react/React.useState.md "Go React.useState"
 
+* ### [props][propslink]
+
+[propslink]: https://github.com/ejisooo/TIL/blob/main/react/props.md "Go React.useState"
+
 # __etc__
 * ### [tsx,ts][tsx,tslink]
 
